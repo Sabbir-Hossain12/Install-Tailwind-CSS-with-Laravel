@@ -40,7 +40,6 @@ Add the @tailwind directives for each of Tailwind’s layers to your ./resources
 
 ```bash
 @tailwind base;
-
 @tailwind components;
 @tailwind utilities;
 ```
